@@ -1,0 +1,3 @@
+﻿  lab7.cpp
+c:\lab7\lab7\lab7.cpp(18): warning C4305: инициализация: усечение из "double" в "float"
+  lab7.vcxproj -> C:\lab7\Debug\lab7.exe
